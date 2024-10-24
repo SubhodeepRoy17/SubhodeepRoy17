@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **subhodeeproy37@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QUwsr2qSM2jW1FZHAEILz4SoC3aJpOY0/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xmPXFlqyqF1dixRkpOhRTvHWC6wsup_r/view?usp=sharing)
 
 - ⚡ Fun fact **I am really curious about everything.**
 
