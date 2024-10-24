@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhodeeproy17" alt="subhodeeproy17" /></a> </p>
 
-- 🔭 I’m currently working on [WaasteManagement-Project](https://github.com/anki2003ta/WanderLust-Project)
+- 🔭 I’m currently working on [Waste_Wise](https://github.com/SubhodeepRoy17/Waste_Wise)
 
 - 🌱 I’m currently learning **DSA in C**
 
