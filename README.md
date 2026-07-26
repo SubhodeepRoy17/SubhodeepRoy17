@@ -14,8 +14,8 @@
 
 ## About Me
 
-- **Currently working at:** [Zeno Talent](https://github.com/SubhodeepRoy17/mern-ecommerce)
-- **Currently learning:** Deepening my skills in the MERN stack
+- **Currently working as a freelancer at:** [Scaler AI Labs](https://github.com/SubhodeepRoy17/)
+- **Currently learning:** Deepening my skills in the MERN stack and Gen AI
 - **Fun fact:** I'm really curious about everything
 - **Resume:** [View here](https://drive.google.com/file/d/1iZPYzgHABqhsJMOhpTlOTIrHI-R8hcj7/view?usp=sharing)
 - **Email:** subhodeeproy37@gmail.com
