@@ -57,6 +57,16 @@
 
 <br/>
 
+## Featured Projects
+
+<p align="left">
+<a href="https://github.com/SubhodeepRoy17/mern-ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhodeeproy17&repo=mern-ecommerce&theme=tokyonight" alt="mern-ecommerce"/>
+</a>
+</p>
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
@@ -75,6 +85,14 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhodeeproy17&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/subhodeeproy17/subhodeeproy17/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
 </div>
 
