@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20There,%20I'm%20Subhodeep Roy%20‘‹&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20There,%20I'm%20Subhodeep&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Web+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+Enthusiast;Always+Curious%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Web+Developer+from+India;MERN+Stack+Enthusiast;Always+Curious%2C+Always+Learning" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=subhodeeproy17&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
@@ -12,17 +12,17 @@
 
 <br/>
 
-## ðŸš€ About Me
+## About Me
 
-- ðŸ”­ Currently working at **[Zeno Talent](https://github.com/SubhodeepRoy17/mern-ecommerce)**
-- ðŸŒ± Deepening my skills in the **MERN stack**
-- âš¡ Fun fact â€” I'm really curious about *everything*
-- ðŸ“„ Check out my **[Resume](https://drive.google.com/file/d/1iZPYzgHABqhsJMOhpTlOTIrHI-R8hcj7/view?usp=sharing)**
-- ðŸ“« Reach me at **subhodeeproy37@gmail.com**
+- **Currently working at:** [Zeno Talent](https://github.com/SubhodeepRoy17/mern-ecommerce)
+- **Currently learning:** Deepening my skills in the MERN stack
+- **Fun fact:** I'm really curious about everything
+- **Resume:** [View here](https://drive.google.com/file/d/1iZPYzgHABqhsJMOhpTlOTIrHI-R8hcj7/view?usp=sharing)
+- **Email:** subhodeeproy37@gmail.com
 
 <br/>
 
-## ðŸŒ Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/subhodeep-roy-423a2a274/" target="blank">
@@ -47,7 +47,7 @@
 
 <br/>
 
-## ðŸ› ï¸ Languages & Tools
+## Languages & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,django,flask,mongodb,mysql,postgres,firebase,docker,gcp,git,figma,pytorch,tensorflow,opencv,sklearn" alt="tech stack"/>
@@ -55,7 +55,7 @@
 
 <br/>
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
