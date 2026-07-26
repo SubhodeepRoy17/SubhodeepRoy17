@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20There,%20I'm%20Subhodeep&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20There,%20I'm%20Subhodeep%20Roy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Web+Developer+from+India;MERN+Stack+Enthusiast;Always+Curious%2C+Always+Learning" alt="Typing SVG" />
@@ -19,6 +19,8 @@
 - **Fun fact:** I'm really curious about everything
 - **Resume:** [View here](https://drive.google.com/file/d/1iZPYzgHABqhsJMOhpTlOTIrHI-R8hcj7/view?usp=sharing)
 - **Email:** subhodeeproy37@gmail.com
+- **Location:** India
+- **Currently exploring:** System Design & Cloud (GCP)
 
 <br/>
 
@@ -59,12 +61,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=subhodeeproy17&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhodeeproy17&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=subhodeeproy17&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhodeeproy17&layout=compact&locale=en&theme=tokyonight" alt="Top langs"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhodeeproy17&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=subhodeeproy17&theme=tokyonight" alt="streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhodeeproy17&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=subhodeeproy17&theme=tokyonight&row=1&column=7" alt="trophy"/>
 
 </div>
 
